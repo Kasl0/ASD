@@ -1,0 +1,29 @@
+Zad. 1
+A - tablica liczb naturalnych 
+T - liczba naturalna
+Czy A ma podzbiór którego suma to T?
+
+A = [1, 7, 4, 2, 5]
+T = 12
+
+Zad. 2
+A - tablica liczb
+B - tablica liczb
+Znaleść długość najdłuższego ciągu będącego podciągiem A i B.
+
+A = [7, 3, 5, 8, 2]
+B = [2, 3, 7, 3, 8]
+
+Zad. 3
+A - tablica liczb naturalnych
+Znaleść najdłuższy podciąg A w którym wyrazy są rosnące.
+Złożoność O(nlogn)
+
+Zad. 4
+A1, A2, ..., An - macierze
+Optymalne mnożenie macierzy. Ile operacji minimalnie możemy wykonać podczas mnożenia A1 * A2 * ... * An?
+
+Zad. 5
+A - liczby naturalne - nominały
+T - kwota, którą chcemy wydać
+Ile minimalnie monet należy wydać aby wydać kwotę T?
